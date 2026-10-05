@@ -31,6 +31,9 @@ For most families, buying a home is the biggest money decision they will ever ma
 
 I narrowed the data to applications that reached a final decision and were for conventional, first-lien, owner-occupied home purchases. Loans like refinances, FHA/VA loans, and investment properties follow different rules, so mixing them in would blur the results.
 
+> **Note:** The data file is about 200 MB, which is too large for GitHub. To run the notebook, you can access then download the CSV file I used here:
+> https://drive.google.com/file/d/1vm4odhrIlxmGCTliMG1wAFvRmByoSKRT/view?usp=sharing
+
 ## How I Built It
 
 ### 1. Cleaning the data
